@@ -12,7 +12,7 @@
     "target_path": "hardware/qcom/fm"
   },
   {
-    "repository": "android_kernel_cyanogen_msm8916",
-    "target_path": "kernel/cyanogen/msm8916"
+    "repository": "android_kernel_zte_msm8916",
+    "target_path": "kernel/zte/nx511j"
   }
 ]
